@@ -1,0 +1,24 @@
+/*
+Author: Kendall Fowler
+Date: December 12, 2021
+Purpose: CIS-2288 Final Exam - Part 1 - Bookorama Management System
+Dependencies: none
+*/
+
+#container {
+    width: 1000px;
+    background-color: darkseagreen;
+    margin: 50px auto;
+    color: black;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+body{
+    font-size: 16px;
+    font-family: "Segoe UI", sans-serif;
+}
+
+a:link, a:visited{
+    color: black;
+}

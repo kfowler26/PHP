@@ -1,0 +1,21 @@
+/*
+Author: Kendall Fowler
+Class: CIS-2288
+Date: December 6, 2021
+Purpose: CIS-2288 Assignment 6 - Employee Search
+*/
+
+#employeeArea {
+    width: 650px;
+    background-color: lightgreen;
+    margin: 50px auto;
+    color: darkblue;
+    padding: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+}
+
+body{
+    font-size: 12px;
+    font-family: "Segoe UI", sans-serif;
+}
